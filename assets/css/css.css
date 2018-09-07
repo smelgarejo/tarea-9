@@ -1,0 +1,64 @@
+p {
+font-family: 'Raleway', sans-serif;
+font-size: 0.8rem;
+font-weight: 200;
+}
+h2 {
+font-size:3rem;
+font-family: 'Raleway', sans-serif;
+}
+h3 {
+font-size:2rem;
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+}
+.principal__title--bold {
+font-weight: 700;
+}
+.principal {
+background-color:#e56353;
+}
+.principal__title {
+color: #ffffff;
+}
+.bloque-producto__gris1 {
+background-color: #686963;
+color:#ffffff;
+}
+.bloque-producto__img--01 {
+width: 100%;
+background: url('../img/img-history.png') center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+height: 24rem;
+}
+
+.bloque-producto__img--02 {
+width: 100%;
+background: url('../img/our-tomatoes.png') center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+height: 24rem;
+}
+
+.bloque-producto__gris2 {
+background-color: #fafafa;
+color:#686963;
+}
+.colortexto {
+color:white;
+}
+.footertext-1 {
+background-color: #ffffff;
+box-sizing: border-box;
+border: 1px solid rgba(0,0,0,.125);
+}
+.footertext-2 {
+background-color: #f4f4f4;
+box-sizing: border-box;
+border: 1px solid rgba(0,0,0,.125);
+}
